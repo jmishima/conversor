@@ -1,0 +1,9 @@
+#encabezado{
+    background-image: url("fondo%20pantalla.jpg");
+    background-position-y: -164px;
+}
+
+.map {
+    height: 400px;
+    width: 100%;
+}
